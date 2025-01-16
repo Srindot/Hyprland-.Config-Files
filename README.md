@@ -26,4 +26,5 @@ This repository contains my personal `.config` files for customizing the Hyprlan
 
 ## Installation
 Clone this repository to your local machine: 
-```bash git clone https://github.com/yourusername/your-repo-name.git
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
