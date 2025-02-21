@@ -11,7 +11,7 @@ This repository contains my personal `.config` files for customizing the Hyprlan
 - **rofi**: Configuration files for Rofi.
 - **wallpapers**: Collection of wallpapers.
 - **waybar**: Configuration files for Waybar.
-
+- **HyprCursor**: Configuration files for Hyprcursor
 ## Tags
 
 - archlinux
